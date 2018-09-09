@@ -1,0 +1,11 @@
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\bin\Release\netcoreapp2.0\Vegitron.Web.V1.deps.json
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\bin\Release\netcoreapp2.0\Vegitron.Web.V1.runtimeconfig.json
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\bin\Release\netcoreapp2.0\Vegitron.Web.V1.runtimeconfig.dev.json
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\bin\Release\netcoreapp2.0\Vegitron.Web.V1.dll
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\bin\Release\netcoreapp2.0\Vegitron.Web.V1.pdb
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\obj\Release\netcoreapp2.0\Vegitron.Web.V1.csproj.CoreCompileInputs.cache
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\obj\Release\netcoreapp2.0\Vegitron.Web.V1.AssemblyInfoInputs.cache
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\obj\Release\netcoreapp2.0\Vegitron.Web.V1.AssemblyInfo.cs
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\obj\Release\netcoreapp2.0\Vegitron.Web.V1.dll
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\obj\Release\netcoreapp2.0\Vegitron.Web.V1.pdb
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\obj\Release\netcoreapp2.0\Vegitron.Web.V1.csprojAssemblyReference.cache

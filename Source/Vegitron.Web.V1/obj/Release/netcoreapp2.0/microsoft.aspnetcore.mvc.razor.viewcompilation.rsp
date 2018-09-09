@@ -1,0 +1,13 @@
+E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Vegitron.Web.V1
+--content-root=E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1
+--file=E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\Views\Home\About.cshtml
+--file=E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\Views\Home\Contact.cshtml
+--file=E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\Views\Home\Index.cshtml
+--file=E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\Views\Location\Search.cshtml
+--file=E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\Views\Shared\Error.cshtml
+--file=E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\Views\Shared\_Layout.cshtml
+--file=E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\Views\_ViewImports.cshtml
+--file=E:\Projects\DotNetCore\Vegetron\Source\Vegitron.Web.V1\Views\_ViewStart.cshtml

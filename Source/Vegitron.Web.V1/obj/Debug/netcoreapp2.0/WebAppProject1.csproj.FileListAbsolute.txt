@@ -1,0 +1,11 @@
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\bin\Debug\netcoreapp2.0\WebAppProject1.deps.json
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\bin\Debug\netcoreapp2.0\WebAppProject1.runtimeconfig.json
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\bin\Debug\netcoreapp2.0\WebAppProject1.runtimeconfig.dev.json
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\bin\Debug\netcoreapp2.0\WebAppProject1.dll
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\bin\Debug\netcoreapp2.0\WebAppProject1.pdb
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\obj\Debug\netcoreapp2.0\WebAppProject1.csprojAssemblyReference.cache
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\obj\Debug\netcoreapp2.0\WebAppProject1.csproj.CoreCompileInputs.cache
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\obj\Debug\netcoreapp2.0\WebAppProject1.AssemblyInfoInputs.cache
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\obj\Debug\netcoreapp2.0\WebAppProject1.AssemblyInfo.cs
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\obj\Debug\netcoreapp2.0\WebAppProject1.dll
+E:\Projects\DotNetCore\Project1\WebAppProject1\WebAppProject1\obj\Debug\netcoreapp2.0\WebAppProject1.pdb
